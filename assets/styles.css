@@ -26,12 +26,12 @@ article {
 
 h2 {
     color:red; 
-    text-align: left;  
+    text-align: center;  
 }
 
 h3 {
     color:purple;
-    text-align: left
+    text-align: center;
 }
 
 h4 {
@@ -41,5 +41,9 @@ h4 {
 
 html {
     background-color:orange
+}
+
+h5 {
+    font-size: xx-large
 }
 
