@@ -12,7 +12,7 @@ body {
     text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
     text-align: center;
 }
 
@@ -25,9 +25,21 @@ article {
 }
 
 h2 {
-    color:red   
+    color:red; 
+    text-align: left;  
 }
 
 h3 {
-    color:purple
+    color:purple;
+    text-align: left
 }
+
+h4 {
+    text-align: left;
+    color:blue;
+}
+
+html {
+    background-color:orange
+}
+
