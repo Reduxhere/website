@@ -43,7 +43,10 @@ html {
     background-color:orange
 }
 
-h5 {
+h5, h6 {
     font-size: xx-large
 }
 
+p {
+    font-size: larger
+}
